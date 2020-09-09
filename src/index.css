@@ -1,0 +1,55 @@
+.contenedor{
+    width: 560px;
+    height: 630px;
+    margin-left: 30%;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+  .note{
+      padding: 2%;
+      height: 30px;
+      width: 470px;
+      font-size: 24px;
+      font-family: 'Shadows Into Light', cursive;
+      margin: 1px;
+      border: none;
+  }
+
+  .trash{
+      width: 56px;
+      height: 56px;
+      padding: 2%;
+      background-color: white;
+      border: none;
+      border-radius: 100%;
+      font-family: 'Chilanka', cursive;
+    }
+
+  
+
+.trash:hover {
+    background-color: rgb(230, 228, 228);
+  }
+
+ 
+
+  .pa{
+      margin-right: 20px;
+      margin-left: 20px;
+      display: block ruby;
+      font-family: 'Chilanka', cursive;
+  }
+
+  .pa:hover{
+      color: rgb(121, 121, 121);
+  }
+
+  .unique-title{
+  padding-left: 435px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+}
+  .agg:hover{
+    background-color: rgb(230, 228, 228);
+  }
